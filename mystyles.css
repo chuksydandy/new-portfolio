@@ -1,0 +1,27 @@
+body{
+    background-color: lightgrey;
+}
+.header {
+    margin-left: 1px;
+    margin-right: 40%;
+    margin-bottom: 2px;
+    margin-top: 2px;
+
+
+}
+.header img{
+    width: 200px;
+    height: 300px;
+    flex-wrap: wrap;
+    text-wrap: initial;
+
+}
+.header h1{
+    padding-left: 0%;
+    padding-right: 0%;
+    overlay: auto;
+    float: right;
+}
+.about-me h2{
+    text-align: center;
+}
